@@ -1,0 +1,16 @@
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise.deps.json
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise.runtimeconfig.json
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise.runtimeconfig.dev.json
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise.dll
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/bin/Debug/net5.0/LinqExercise.pdb
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.csproj.AssemblyReference.cache
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.AssemblyInfoInputs.cache
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.AssemblyInfo.cs
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.csproj.CoreCompileInputs.cache
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.dll
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/refint/LinqExercise.dll
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.pdb
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/LinqExercise.genruntimeconfig.cache
+/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/obj/Debug/net5.0/ref/LinqExercise.dll

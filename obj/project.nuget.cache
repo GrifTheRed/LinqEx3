@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyGdkwXY9Lq+ENPjN4lqpE43F4wmhnk/6tNU6BfHx5E5OlmPZe6amGSiMnTut6REO++FU4RFjuNCwFp2Rq52ow==",
+  "success": true,
+  "projectFilePath": "/Users/derekgriffin/Desktop/repos/LinqEx3/LinqExercise/LinqExercise/LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/derekgriffin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/derekgriffin/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
